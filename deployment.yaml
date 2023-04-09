@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: primuslearning
+  name: portfolio-app
   labels:
-    app: primuslearning
+    app: portfolio-app
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: primuslearning
+      app: portfolio-app
   template:
     metadata:
       labels:
-        app: primuslearning
+        app: portfolio-app
     spec:
       containers:
-        - name: primuslearning
-          image: 632715066473.dkr.ecr.us-east-2.amazonaws.com/primuslearning:1.1
+        - name: portfolio-app
+          image: 632715066473.dkr.ecr.us-east-2.amazonaws.com/portfolio-app:1.1
           imagePullPolicy: Always
           ports:
             - containerPort: 8080

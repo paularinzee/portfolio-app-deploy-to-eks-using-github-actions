@@ -317,19 +317,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Paul Nnaji',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+    'A passionate Backend Developer and DevOps Engineer.',
+  author: 'Paul Nnaji',
+  image: 'https://avatars.githubusercontent.com/u/87880495?s=400&u=54e1d159e3f97d5216ff46c68440b5425613646c&v=4',
+  url: '#',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Paul',
+    'Paul Arinze',
+    '@paularinzee',
+    'paularinzee',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Paul Portfolio ',
+    'Paul Arinze Portfolio',
   ],
 };
