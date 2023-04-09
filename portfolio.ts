@@ -228,6 +228,13 @@ export const educationInfo: EducationType[] = [
   {
     schoolName: 'Michael Okpara University of Agriculture Umudike',
     subHeader: 'Master of Science in Computer Science',
+    duration: 'September 2017 - April 2019',
+    desc: 'Participated in the research of XXX and published 3 papers.',
+    grade: 'Grade A',
+    descBullets: [
+      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    ],
     
    
   },
