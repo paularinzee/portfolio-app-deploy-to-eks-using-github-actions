@@ -224,14 +224,14 @@ export const SkillBars: SkillBarsType[] = [
   },
 ];
 
-export const educationInfo: EducationType[] = [
-  {
-    schoolName: 'Michael Okpara University of Agriculture Umudike',
-    subHeader: 'Master of Science in Computer Science',
+// export const educationInfo: EducationType[] = [
+//   {
+//     schoolName: 'Michael Okpara University of Agriculture Umudike',
+//     subHeader: 'Master of Science in Computer Science',
     
    
-  },
-];
+//   },
+// ];
 
 export const experience: ExperienceType[] = [
   {
