@@ -216,7 +216,7 @@ export const SkillBars: SkillBarsType[] = [
   },
   {
     Stack: 'Backend',
-    progressPercentage: '90',
+    progressPercentage: '80',
   },
   {
     Stack: 'Programming',
@@ -224,14 +224,14 @@ export const SkillBars: SkillBarsType[] = [
   },
 ];
 
-// export const educationInfo: EducationType[] = [
-//   {
-//     schoolName: 'Michael Okpara University of Agriculture Umudike',
-//     subHeader: 'Master of Science in Computer Science',
+export const educationInfo: EducationType[] = [
+  {
+    schoolName: 'Michael Okpara University of Agriculture Umudike',
+    subHeader: 'Master of Science in Computer Science',
     
    
-//   },
-// ];
+  },
+];
 
 export const experience: ExperienceType[] = [
   {
