@@ -5,9 +5,7 @@ module.exports = {
   },
   
     // previous command here
-    experimental: {
-      outputStandalone: true,
-    },   
+    output: 'standalone'   
   
 };
 
